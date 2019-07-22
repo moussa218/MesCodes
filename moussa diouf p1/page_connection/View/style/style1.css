@@ -1,0 +1,11 @@
+
+
+#pied,h1{
+	font-family: monospace;
+	font-size: 22px;
+	font-style: oblique;
+	text-decoration: blink;
+	text-transform: capitalize;
+	text-shadow: 15px;
+}
+	

@@ -1,0 +1,16 @@
+body{
+	background-image: url('photo.jpg');
+}
+.alerter{
+	background-color: blue;
+	color: red;
+}
+h3{
+	color: red;
+}
+#test{
+	color: black; 
+}
+#politique{
+	background-color: #faa245; 
+}
