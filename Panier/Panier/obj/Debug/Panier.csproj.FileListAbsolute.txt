@@ -1,0 +1,22 @@
+C:\Users\Bright\Source\Repos\Panier\Panier\bin\Debug\Panier.exe.config
+C:\Users\Bright\Source\Repos\Panier\Panier\bin\Debug\Panier.exe
+C:\Users\Bright\Source\Repos\Panier\Panier\bin\Debug\Panier.pdb
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.Properties.Resources.resources
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.csproj.GenerateResource.cache
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.csproj.CoreCompileInputs.cache
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.exe
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.pdb
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.Form1.resources
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.Form2.resources
+C:\Users\Bright\Source\Repos\Panier\Panier\obj\Debug\Panier.csprojAssemblyReference.cache
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\bin\Debug\Panier.exe.config
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\bin\Debug\Panier.exe
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\bin\Debug\Panier.pdb
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.csprojAssemblyReference.cache
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.Form1.resources
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.Form2.resources
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.Properties.Resources.resources
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.csproj.GenerateResource.cache
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.csproj.CoreCompileInputs.cache
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.exe
+C:\Users\Moussa Diouf\Desktop\Panier\Panier\obj\Debug\Panier.pdb
