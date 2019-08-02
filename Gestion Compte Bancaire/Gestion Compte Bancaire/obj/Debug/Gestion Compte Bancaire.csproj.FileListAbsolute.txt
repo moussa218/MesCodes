@@ -1,0 +1,10 @@
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\bin\Debug\Gestion Compte Bancaire.exe.config
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\bin\Debug\Gestion Compte Bancaire.exe
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\bin\Debug\Gestion Compte Bancaire.pdb
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion Compte Bancaire.csprojAssemblyReference.cache
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion_Compte_Bancaire.pageLCCR.resources
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion_Compte_Bancaire.Properties.Resources.resources
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion Compte Bancaire.csproj.GenerateResource.cache
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion Compte Bancaire.csproj.CoreCompileInputs.cache
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion Compte Bancaire.exe
+C:\Users\Moussa Diouf\source\repos\Gestion Compte Bancaire\Gestion Compte Bancaire\obj\Debug\Gestion Compte Bancaire.pdb
