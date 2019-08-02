@@ -1,0 +1,14 @@
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\bin\Debug\PrepareExo8.exe.config
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\bin\Debug\PrepareExo8.exe
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\bin\Debug\PrepareExo8.pdb
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.csprojAssemblyReference.cache
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.Form1.resources
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.Properties.Resources.resources
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.csproj.GenerateResource.cache
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.csproj.CoreCompileInputs.cache
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.exe
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.pdb
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moussa Diouf\source\repos\PrepareExo8\PrepareExo8\obj\Debug\PrepareExo8.csproj.CopyComplete
